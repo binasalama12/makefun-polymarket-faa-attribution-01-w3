@@ -1,3 +1,7 @@
+[![make.fun · polymarket-faa-attribution-01](https://make.fun/badge/polymarket-faa-attribution-01.svg)](https://make.fun/bounty/polymarket-faa-attribution-01?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-01)
+[![rank](https://make.fun/badge/polymarket-faa-attribution-01/binasalama12/makefun-polymarket-faa-attribution-01-w3/rank.svg)](https://make.fun/bounty/polymarket-faa-attribution-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-01)
+[![reward](https://make.fun/badge/polymarket-faa-attribution-01/binasalama12/makefun-polymarket-faa-attribution-01-w3/reward.svg)](https://make.fun/bounty/polymarket-faa-attribution-01?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-01)
+
 # Empirical-heavy forecaster (jump memory)
 
 Forecaster untuk `polymarket-faa-attribution-01`: membaca satu case
